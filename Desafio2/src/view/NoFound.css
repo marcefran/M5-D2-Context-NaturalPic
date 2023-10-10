@@ -1,0 +1,7 @@
+.noFound{
+    display: flex;
+    flex-direction: column;
+}
+.noFound img{
+    border-radius: 10px;
+}

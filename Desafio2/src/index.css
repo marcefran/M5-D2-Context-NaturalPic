@@ -1,0 +1,5 @@
+body{
+    background: radial-gradient(rgb(130, 218, 192),rgb(155, 158, 140));
+    display: grid;
+    font-family: sans-serif;
+}

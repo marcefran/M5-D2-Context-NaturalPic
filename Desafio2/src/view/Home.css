@@ -1,0 +1,37 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  min-height: 80vh;
+}
+
+.verMas{
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.verMas button{
+  background: rgb(238, 155, 169);
+  color:rgb(10, 10, 10);
+  border: none;
+  width: 5rem;
+  height: 2rem;
+  border-radius: 5px;
+}
+
+.verMas button:hover{
+  background: rgb(238, 155, 169);
+  color: black;
+  border: none;
+  width: 5rem;
+  height: 2rem;
+  border-radius: 5px;
+}
+.verMas p{
+  color: rgba(102, 192, 245, 0.8);
+  font-size: small;
+}
